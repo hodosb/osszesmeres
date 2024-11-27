@@ -68,7 +68,10 @@ Az alábbi táblázat a különböző frekvenciasávokhoz tartozó mért jelerő
 
 ### 5 Eredmények értelmezése
 
+
 A Johansson 6700 Profiler a kiválasztott frekvenciasávokban stabil, 40 dBuV erősítést biztosított. A készülék sikeresen növelte a bemeneti jelerősséget, javítva a gyengébb jelek stabil vételét és feldolgozását. Az erősítés stabilnak bizonyult, az eltérések minimálisak, és a mérések megfeleltek az elvárásoknak.
+
+
 ---
 
 ## 6. Elemzés és Értékelés
@@ -113,7 +116,7 @@ A mérés során az alábbi problémák merültek fel:
 3. **Műholdas és földi adóállomások jellemzői** - Általános útmutató a városi adótornyok és sugárzott frekvenciák jellemzőiről.
 
 
-## 13. Záró Összegzés
+## 11. Záró Összegzés
 A mérés során a Johansson 6700 Profiler programozható antennaerősítő-szűrő sikeresen kezelte és optimalizálta a városi környezetben lévő antenna jeleit. A jelerősség és vételi minőség alapján az eszköz hatékonyan alkalmazható rövid UTP kábelezésű rendszerekben. Az antennarendszer telepítése megfelelően történt, de a jelerősség növelése érdekében további tesztek javasoltak.
 
 Legfontosabb tanulságok:
@@ -128,7 +131,7 @@ A Johansson 6700 könnyen konfigurálható és hatékonyan működik.
 
 ---
 
-## 14. Mért Képek
+## 12. Mért Képek
 
 
 
@@ -148,4 +151,3 @@ A Johansson 6700 könnyen konfigurálható és hatékonyan működik.
 **Aláírás:** Kónya Zsombor,Hódos Balázs
 
 **Dátum:** 2024. 11. 27.
-
