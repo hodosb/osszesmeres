@@ -140,6 +140,8 @@ A Johansson 6700 könnyen konfigurálható és hatékonyan működik.
 
 
 <br>
+
+
 ![image](https://github.com/user-attachments/assets/785775e1-1def-4ed2-b356-341f92f27723)
 
 <br>
