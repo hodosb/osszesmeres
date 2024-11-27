@@ -136,7 +136,8 @@ A Johansson 6700 könnyen konfigurálható és hatékonyan működik.
 
 
 
-<img src="https://github.com/hodosb/osszesmeres/blob/main/6700/its_snapshot_0008.png"alt="nyers jelek"/>
+![image](https://github.com/user-attachments/assets/e74e5aa3-2924-495d-b9a5-a1c570b281d8)
+
 
 <br>
 
