@@ -39,6 +39,10 @@
 \- A csillapítása
 
 **Használt képletek:**
+![negyedik](https://github.com/user-attachments/assets/ed43dec5-e98f-4696-926a-91b3aabc10ea)
+
+
+![otodik](https://github.com/user-attachments/assets/661a3530-b22e-4c0b-b928-bb28420090fb)
 
 
 **Szimulációban lefuttatva:**
