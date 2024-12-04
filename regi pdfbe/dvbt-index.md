@@ -23,9 +23,14 @@ a SMART HD 550, ISKRA P20 LOGPER és IKUSI FLASHD C48 antennák nyereségének v
 
 **Alkalmazot t mérőeszközök és készülékek:**
 
+![first](https://github.com/user-attachments/assets/281b29d3-f3e7-40c6-8993-4ddd015f0183)
 
 
 2. **Mérési helyszín és környezet**
+
+![second](https://github.com/user-attachments/assets/593ff5b3-9952-4bc0-ac9b-d03638af97a0)
+
+
 
  	**Koordináták**: 48°06’20”N 20°46’48”E
 
@@ -41,9 +46,15 @@ ADÓTORONY \- VÉTELI HELY távolság:
 
 **A Miskolci TV adótorony által sugárzot t frekvenciák:**
 
+![three](https://github.com/user-attachments/assets/8aa34063-2078-411d-a532-19e490e98e77)
+
+
 **A képen látható táblázaton nekünk az E41-es csatornára volt szükség.**
 
 **Blokkvázlat:**
+
+![four](https://github.com/user-attachments/assets/33697bf1-ae30-4da9-9645-faa6ca878d47)
+
 
 ANTENNA(ISKRA,IKUSI,szobaantenna)
 
@@ -59,6 +70,10 @@ ANTENNA(ISKRA,IKUSI,szobaantenna)
 
 4. **Mérési eredmények**
 
+![five](https://github.com/user-attachments/assets/e320c14a-5bdc-4e4f-82df-47a9f8caeecd)
+
+
+
 | Antenna típusa | Hátsó udvar | V3-as labor | Belső udvar |
 | :---: | :---: | :---: | :---: |
 | SMART HD 550 | 40 dB | 43dB | 39 dB |
@@ -66,6 +81,9 @@ ANTENNA(ISKRA,IKUSI,szobaantenna)
 | IKUSI FLASHD C48 | 46 dB | 47 dB | 52 dB |
 
 **Az alábbi képen a IKUSI antenna által vet t jelet láthatjuk a hátsó udvaron**
+
+![six](https://github.com/user-attachments/assets/fd8b0368-72a0-43e8-9b81-98f7adfaf5f5)
+
 
 **Észrevételek a mérések során**
 
