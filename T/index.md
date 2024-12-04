@@ -37,8 +37,12 @@
 - Az áramkör átviteli aránya
 
 \- A csillapítása
+---
 
 **Használt képletek:**
+
+
+
 ![negyedik](https://github.com/user-attachments/assets/ed43dec5-e98f-4696-926a-91b3aabc10ea)
 
 
@@ -46,6 +50,8 @@
 
 
 **Szimulációban lefuttatva:**
+
+
 
 ![szmiuláció](https://github.com/user-attachments/assets/16b8dc97-b06c-41ce-85ce-c1548295c711)
 
