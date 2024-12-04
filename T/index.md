@@ -42,9 +42,15 @@
 
 
 **Szimulációban lefuttatva:**
-![harmadik kép](https://github.com/user-attachments/assets/85940a7d-7fd4-40cc-abcb-c6bea84243eb)
+
+![szmiuláció](https://github.com/user-attachments/assets/16b8dc97-b06c-41ce-85ce-c1548295c711)
+
+
 
 **Értékek:**
+
+
+![harmadik kép](https://github.com/user-attachments/assets/85940a7d-7fd4-40cc-abcb-c6bea84243eb)
 
 Bemeneti impedencia**: 8,1 Ω**
 
