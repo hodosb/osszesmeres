@@ -56,7 +56,8 @@ Csillapítás: **6dB**
 
 **Számítások:**
 
-![][image1]
+![ábra](https://github.com/user-attachments/assets/1641bbd8-e537-4fc1-bc97-f270e957c6b4)
+
 
 **Tapasztalatok:**
 
