@@ -77,7 +77,6 @@ Kimeneti impedencia:
 
 Csillapítás: **6dB**
 
-**Számítások:**
 
 **Tapasztalatok:**
 
