@@ -10,8 +10,6 @@
 
 **Cél:** A T ellenállás- hálózat jellemzőinek meghatározása a megadott ellenállásértékek alapján.
 
-| Aláírás: |  |  |  |  |
-| ----- | :---- | :---- | :---- | :---- |
 | **Évfolyam:** 13/E | **Csoport:** GYAK3 | **Helyszín:** V3 Labor | **Beadás dátuma:** 2024.10.09 | **Osztályzat:** |
 
 **Eszközök:**
