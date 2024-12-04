@@ -1,3 +1,4 @@
+
 **Miskolci Szakképzési Centrum Kandó Kálmán Informatikai Technikum**  
 **Miskolc Palóczy u. 3\.**
 
@@ -15,15 +16,22 @@
 | **13\. E** | **GYAK2** | **V3 Labor,hátsó** | **dátuma:** | **:** |
 |  |  | **udvar** | **2024.10.07.** |  |
 
-1. **Célkitűzés**
+1. 
+2. ---
 
-# **A mérés célja a SMART HD 550, ISKRA P20 LOGPER és IKUSI FLASHD C48 antennák nyereségének vizsgálata és összehasonlítása három eltérő vételi ponton. A mérések során az antennák jelszintjét rögzítettük a 634 MHz-es frekvencián, és értékeltük a jelminőséget a METEK HD spektrum/jelszint analizátor segítségével.**
+# A mérés célja 
+a SMART HD 550, ISKRA P20 LOGPER és IKUSI FLASHD C48 antennák nyereségének vizsgálata és összehasonlítása három eltérő vételi ponton. A mérések során az antennák jelszintjét rögzítettük a 634 MHz-es frekvencián, és értékeltük a jelminőséget a METEK HD spektrum/jelszint analizátor segítségével.**
 
 **Alkalmazot t mérőeszközök és készülékek:**
 
+![first](https://github.com/user-attachments/assets/281b29d3-f3e7-40c6-8993-4ddd015f0183)
 
 
 2. **Mérési helyszín és környezet**
+
+![second](https://github.com/user-attachments/assets/593ff5b3-9952-4bc0-ac9b-d03638af97a0)
+
+
 
  	**Koordináták**: 48°06’20”N 20°46’48”E
 
@@ -39,9 +47,15 @@ ADÓTORONY \- VÉTELI HELY távolság:
 
 **A Miskolci TV adótorony által sugárzot t frekvenciák:**
 
+![three](https://github.com/user-attachments/assets/8aa34063-2078-411d-a532-19e490e98e77)
+
+
 **A képen látható táblázaton nekünk az E41-es csatornára volt szükség.**
 
 **Blokkvázlat:**
+
+![four](https://github.com/user-attachments/assets/33697bf1-ae30-4da9-9645-faa6ca878d47)
+
 
 ANTENNA(ISKRA,IKUSI,szobaantenna)
 
@@ -57,6 +71,8 @@ ANTENNA(ISKRA,IKUSI,szobaantenna)
 
 4. **Mérési eredmények**
 
+
+
 | Antenna típusa | Hátsó udvar | V3-as labor | Belső udvar |
 | :---: | :---: | :---: | :---: |
 | SMART HD 550 | 40 dB | 43dB | 39 dB |
@@ -64,6 +80,9 @@ ANTENNA(ISKRA,IKUSI,szobaantenna)
 | IKUSI FLASHD C48 | 46 dB | 47 dB | 52 dB |
 
 **Az alábbi képen a IKUSI antenna által vet t jelet láthatjuk a hátsó udvaron**
+
+![six](https://github.com/user-attachments/assets/fd8b0368-72a0-43e8-9b81-98f7adfaf5f5)
+
 
 **Észrevételek a mérések során**
 
@@ -76,5 +95,3 @@ ANTENNA(ISKRA,IKUSI,szobaantenna)
 **Értékelés, észrevétel, megjegyzés:**
 
 Az antenna tipusa és kialakítása egyértelműen befolyásolja a jelminőséget és nyereséget. Az irányított antennák (pl. IKUSI FLASHD C48) nagyobb nyereséget biztosítanak zavaros vagy távoli vételi pontokon, míg a kisebb, könnyebben telepíthető antennák (pl. SMART HD 550\) bizonyos környezetekben kevésbé hatékonyak.
-
-
