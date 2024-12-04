@@ -24,6 +24,11 @@
 
 **Ábra:**
 
+
+![ábra](https://github.com/user-attachments/assets/1641bbd8-e537-4fc1-bc97-f270e957c6b4)
+
+
+
 **Mérés menete:**
 
 \-**T ellenállás- hálózat felépítése R1 és R2 értékekkel**
@@ -73,9 +78,6 @@ Kimeneti impedencia:
 Csillapítás: **6dB**
 
 **Számítások:**
-
-![ábra](https://github.com/user-attachments/assets/1641bbd8-e537-4fc1-bc97-f270e957c6b4)
-
 
 **Tapasztalatok:**
 
