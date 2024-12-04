@@ -40,7 +40,9 @@
 
 **Használt képletek:**
 
+
 **Szimulációban lefuttatva:**
+![harmadik kép](https://github.com/user-attachments/assets/85940a7d-7fd4-40cc-abcb-c6bea84243eb)
 
 **Értékek:**
 
