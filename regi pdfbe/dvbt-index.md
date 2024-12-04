@@ -70,8 +70,6 @@ ANTENNA(ISKRA,IKUSI,szobaantenna)
 
 4. **Mérési eredmények**
 
-![five](https://github.com/user-attachments/assets/e320c14a-5bdc-4e4f-82df-47a9f8caeecd)
-
 
 
 | Antenna típusa | Hátsó udvar | V3-as labor | Belső udvar |
