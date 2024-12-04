@@ -16,8 +16,10 @@
 |  |  | **udvar** | **2024.10.07.** |  |
 
 1. **Célkitűzés**
+2. ---
 
-# **A mérés célja a SMART HD 550, ISKRA P20 LOGPER és IKUSI FLASHD C48 antennák nyereségének vizsgálata és összehasonlítása három eltérő vételi ponton. A mérések során az antennák jelszintjét rögzítettük a 634 MHz-es frekvencián, és értékeltük a jelminőséget a METEK HD spektrum/jelszint analizátor segítségével.**
+# **A mérés célja **
+a SMART HD 550, ISKRA P20 LOGPER és IKUSI FLASHD C48 antennák nyereségének vizsgálata és összehasonlítása három eltérő vételi ponton. A mérések során az antennák jelszintjét rögzítettük a 634 MHz-es frekvencián, és értékeltük a jelminőséget a METEK HD spektrum/jelszint analizátor segítségével.**
 
 **Alkalmazot t mérőeszközök és készülékek:**
 
