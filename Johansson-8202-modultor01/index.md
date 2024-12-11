@@ -61,6 +61,7 @@
 
 
 
+![mért jelszint táblázat](https://github.com/user-attachments/assets/478446b1-a32b-47b9-bc0e-0c8ba5570bb2)
 
 ---
 
