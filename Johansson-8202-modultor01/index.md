@@ -58,8 +58,11 @@
 ## Grafikus ábrázolás
 <p>A jelszint, a bitsebesség és MER értékek vizuális ábrázolását az alábbi diagram mutatják be:</p>
 
-<img src="">
 
+
+https://github.com/hodosb/osszesmeres/blob/main/Johansson-8202-modultor01/m%C3%A9rt%20jelszint%20t%C3%A1bl%C3%A1zat.png
+
+https://github.com/hodosb/osszesmeres/blob/main/Johansson-8202-modultor01/m%C3%A9rt%20bitsebess%C3%A9g%20t%C3%A1bl%C3%A1zat.png
 
 ---
 
