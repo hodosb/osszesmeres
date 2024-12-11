@@ -64,6 +64,7 @@
 ![mért jelszint táblázat](https://github.com/user-attachments/assets/478446b1-a32b-47b9-bc0e-0c8ba5570bb2)
 
 ---
+![mért bitsebesség táblázat](https://github.com/user-attachments/assets/33094e76-9a9b-40c1-aa49-3df946013fed)
 
 ## Mérési eredmények elemzése
 Az adatok alapján az alábbi következtetéseket lehet levonni:
