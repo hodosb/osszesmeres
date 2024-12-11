@@ -66,6 +66,25 @@
 ---
 ![mért bitsebesség táblázat](https://github.com/user-attachments/assets/33094e76-9a9b-40c1-aa49-3df946013fed)
 
+## 11. Mért Képek
+
+<details>
+<summary>Kattins a részletekért</summary>
+![its_snapshot_0001](https://github.com/user-attachments/assets/ff37db14-e48f-45cb-b650-6ebf3bd1d2e6)
+![its_snapshot_0002](https://github.com/user-attachments/assets/6b005d1a-259d-49d8-9815-444693ea52e6)
+![its_snapshot_0003](https://github.com/user-attachments/assets/a587c139-d819-41d3-aeaa-c4df69025fdd)
+![its_snapshot_0004](https://github.com/user-attachments/assets/065e6ca4-96f2-4ce1-9875-74c9b5b4caef)
+![its_snapshot_0005](https://github.com/user-attachments/assets/2c5b3291-f383-495f-a7d0-e4c5df84edaf)
+![its_snapshot_0006](https://github.com/user-attachments/assets/05fcfeef-3d0e-40fa-b80b-4de99f327ec0)
+![its_snapshot_0007](https://github.com/user-attachments/assets/a7c5b644-d574-4351-8694-acefd55f32b0)
+![its_snapshot_0008](https://github.com/user-attachments/assets/918857f7-9eb1-4869-a80b-b1eea1e4f900)
+![its_snapshot_0009](https://github.com/user-attachments/assets/7f3d8e10-1652-4b7a-aea0-50df29db80cf)
+
+<br>
+
+
+
+
 ## Mérési eredmények elemzése
 Az adatok alapján az alábbi következtetéseket lehet levonni:
 
