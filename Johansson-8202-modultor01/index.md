@@ -29,29 +29,29 @@
 ## Mért értékek különböző modulációkon és frekvenciákon
 
 706 MHz
-| Mérési paraméter    | Moduláció típusa   | Sávszélesség (MHz) | Jelszint (dBm) | Bitsebesség (Mbps) | MER érték (dB) |
-|-------------------- |--------------------|----------------|---------------|----------------|----------------|
-| Mérési eredmény 1   |       QPSK         |        8       |     -55,8     |      4.72      |                |
-| Mérési eredmény 2   |       16-QAM       |        8       |     -54,9     |      8,8       |                |
-| Mérési eredmény 3   |       64-QAM       |        8       |     -54,3     |      14.8      |                |
+| Mérési paraméter    | Moduláció típusa   | Sávszélesség (MHz) | Jelszint (dBm) | Bitsebesség (Mbps) | 
+|-------------------- |--------------------|----------------|---------------|----------------|
+| Mérési eredmény 1   |       QPSK         |        8       |     -55,8     |      4.72      |                
+| Mérési eredmény 2   |       16-QAM       |        8       |     -54,9     |      8,8       |                
+| Mérési eredmény 3   |       64-QAM       |        8       |     -54,3     |      14.8      |                
 
 ---
 
 746 MHz
-| Mérési paraméter   | Moduláció típusa | Sávszélesség (MHz) | Jelszint (dBm) | Bitsebesség (Mbps) | MER érték (dB) |
-|--------------------|---------------------|------------------|--------------------|----------------|--------------------|
-| Mérési eredmény 1  |          QPSK       |        8         |      -52           |       3,9      |                    |
-| Mérési eredmény 2  |          16-QAM     |        8         |      -52,5         |       8,8      |                    |
-| Mérési eredmény 3  |          64-QAM     |        8         |      -53,4         |       14.1     |                    |
+| Mérési paraméter   | Moduláció típusa | Sávszélesség (MHz) | Jelszint (dBm) | Bitsebesség (Mbps) | 
+|--------------------|---------------------|------------------|--------------------|----------------|
+| Mérési eredmény 1  |          QPSK       |        8         |      -52           |       3,9      | 
+| Mérési eredmény 2  |          16-QAM     |        8         |      -52,5         |       8,8      |                   
+| Mérési eredmény 3  |          64-QAM     |        8         |      -53,4         |       14.1     |                    
 
 ---
 
 858 MHz
-| Mérési paraméter   | Moduláció típusa | Sávszélesség (MHz) | Jelszint (dBm) | Bitsebesség (Mbps) | MER érték (dB) |
-|--------------------|------------------|-----------------|--------------------|----------------|--------------------|
-| Mérési eredmény 1  |         QPSK     |        8        |       -52,0        |    3,4         |                    |
-| Mérési eredmény 2  |         16-QAM   |        8        |       -52,7        |        9,5     |                    |
-| Mérési eredmény 3  |         64-QAM   |        8        |       -54,1        |         12,8   |                    |
+| Mérési paraméter   | Moduláció típusa | Sávszélesség (MHz) | Jelszint (dBm) | Bitsebesség (Mbps) | 
+|--------------------|------------------|-----------------|--------------------|----------------|
+| Mérési eredmény 1  |         QPSK     |        8        |       -52,0        |    3,4         |                    
+| Mérési eredmény 2  |         16-QAM   |        8        |       -52,7        |        9,5     |                    
+| Mérési eredmény 3  |         64-QAM   |        8        |       -54,1        |         12,8   |                    
 
 ---
 
