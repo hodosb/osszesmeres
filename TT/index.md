@@ -22,18 +22,17 @@ Az értékeket a következő képletekkel számoljuk ki:
 ![1 (3)](https://github.com/user-attachments/assets/f678db84-c319-4f38-966f-072e41745d0c)
 
 
-![2 (1)](https://github.com/user-attachments/assets/93c0a7d2-313a-4b33-b6ff-94589680b142)
-
 
 6 dB-es csillapításra kiszámolt ellenállás értékek:
+![2 (1)](https://github.com/user-attachments/assets/8f23f380-4fd0-48f8-bb7a-c8559c103b36)
 
 
 <img src="">
 <br>
 
 A kapcsolási rajz a jelgenerátort a belső ellenállásával, valamint a Pi csillapítót a kiszámított ellenállás értékekkel ábrázolja.
-<a href="" target="_blank">
-<img src="" width="640" height="400">
+![3 (1)](https://github.com/user-attachments/assets/d2339106-b518-4fbf-99dc-042e2f212ad6)
+
 </a>
 
 
@@ -51,7 +50,8 @@ A kapcsolási rajz a jelgenerátort a belső ellenállásával, valamint a Pi cs
 
 Az oszcilloszkópon a sárga 1-es csatornán látható a csillapított kimeneti jel, míg a kék 2-es csatornán a generátor jel figyelhető meg.
 
-<img src="" width="600" height="480">
+![4 (1)](https://github.com/user-attachments/assets/99d67865-22dc-48b8-9250-1fe33cb08b26)
+
 
 
 ### 4. **Mérési eredmények**
