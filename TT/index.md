@@ -19,9 +19,10 @@ A projekt célja egy PI csillapító áramkör megépítése, amelynek központj
 
 Az értékeket a következő képletekkel számoljuk ki:
 
-![R1 képlete]()
+![1 (3)](https://github.com/user-attachments/assets/f678db84-c319-4f38-966f-072e41745d0c)
 
-![R2 képlete]()
+
+![2 (1)](https://github.com/user-attachments/assets/93c0a7d2-313a-4b33-b6ff-94589680b142)
 
 
 6 dB-es csillapításra kiszámolt ellenállás értékek:
