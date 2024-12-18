@@ -5,7 +5,6 @@
 
 **A mérést végző neve:**  Kónya Zsombor, Hódos Balázs <br>
 **A mérés tárgya:** Johansson 8202 DVB-T modulátor többcsatornás képességeit, illetve a bitsebesség és jelminőség kapcsolatát vizsgáljuk. <br>
-**A mérés száma:** 5 <br>
 **A mérés dátuma:** 2024.12.18  <br>
 **A mérést vezette:** Sándor Péter   
 
