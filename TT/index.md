@@ -24,10 +24,10 @@ Az értékeket a következő képletekkel számoljuk ki:
 
 
 6 dB-es csillapításra kiszámolt ellenállás értékek:
+
 ![2 (1)](https://github.com/user-attachments/assets/8f23f380-4fd0-48f8-bb7a-c8559c103b36)
 
 
-<img src="">
 <br>
 
 A kapcsolási rajz a jelgenerátort a belső ellenállásával, valamint a Pi csillapítót a kiszámított ellenállás értékekkel ábrázolja.
