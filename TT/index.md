@@ -3,6 +3,7 @@
 
 **Mérés helye**: Miskolci SZC Kandó Kálmán Informatikai Technikum  
 **Mérő személyek**: Hódos Balázs, Kónya Zsombor
+
 **Mérés időpontja**: 2024.12.18.  
 **Mérő műszerek**: HMO1002 Oscilloscope - 1764K02-102609-WG  
 **Felelős személy**: Sándor Péter  
@@ -69,5 +70,6 @@ A Pi csillapító áramkör sikeresen elkészült, és a tesztelési eredmények
 
 **Aláírás**:  
 Felelős mérő személy(ek): Hódos Balázs, Kónya Zsombor
+
 Dátum: 2024.12.18
 
