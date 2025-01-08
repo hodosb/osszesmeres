@@ -12,14 +12,14 @@
 ---
 ### **Mérésben használt ellenállások valós értékei**
 
-Rc=212 Ohm
-Rbe=1482 Ohm
+**Rc=212 Ohm**
+**Rbe=1482 Ohm**
 
 ### **Mérés folyamata**
 
 1. Az áramkör megépítése a megadott kapcsolási rajz alapján.
-2. A mérőeszközök (áramerősség- és feszültségmérő) helyes bekötése.
-3. A bemeneti paraméterek (pl. feszültség) lépcsőzetes változtatása, és az összes mérési adat rögzítése.
+2. A mérőeszközök (árammérő- és feszültségmérő)  bekötése.
+3. A bemeneti paraméterek (pl. feszültség) lépcsőzetes változtatása, és az összes mérési adat rögzítése táblázatba foglalása.
 4. A kapott adatok összehasonlítása az előzetes elvárásokkal.
 
 ---
@@ -68,3 +68,30 @@ Szimulátorban mért eredmények:
 |1,3	|3,10|	14,5|
 |1,4	|3,12	|14,6|
 |1,5	|3,13|	14,6|
+
+
+
+## Képek a méréskhez
+<details>
+  <summary>Képek</summary>
+    <details>
+      <summary>Az összeépített áramkör</summary>
+     
+    </details>
+    <details>
+       <summary>Az összeépített áramkör faldstadtb</summary>
+      <img src="https://github.com/user-attachments/assets/e4d056df-9a72-4caa-8a8d-96aed0a157f3">
+    </details>
+    <details>
+      <summary>Az összeépített áramkör Falstadban</summary>
+      ![falstadt](https://github.com/user-attachments/assets/46231241-e1e7-44fa-ac32-0a7ec17feff2)
+    </details>
+    <details>
+      <summary>Valóságos Grafikon</summary>
+      <img src="https://github.com/user-attachments/assets/38523ee9-db2a-44c5-a416-678893c90512">
+    </details>
+    <details>
+      <summary>Szimulátor Grafikon</summary>
+      <img src="https://github.com/user-attachments/assets/002936e8-53cf-45bc-8755-0372fdb675bc">
+    </details>
+</details>
