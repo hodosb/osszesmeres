@@ -76,7 +76,8 @@ Szimulátorban mért eredmények:
   <summary>Képek</summary>
     <details>
       <summary>Az összeépített áramkör</summary>
-     
+     ![401086602-e4d056df-9a72-4caa-8a8d-96aed0a157f3](https://github.com/user-attachments/assets/cdbfcaeb-58c6-47c0-9678-35d7ccc16143)
+
     </details>
     <details>
        <summary>Az összeépített áramkör faldstadtb</summary>
