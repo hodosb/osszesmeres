@@ -88,3 +88,11 @@ Szimulátorban mért eredmények:
       <summary>Szimulátor Grafikon</summary>
       <img src="https://github.com/hodosb/osszesmeres/blob/main/tranzisztor/sim.PNG">
 </details>
+
+
+
+**Mérőcsoport neve:** MCbukok
+
+**Mérőcsoport tagja:**
+Hódos Balázs
+
