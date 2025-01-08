@@ -91,7 +91,7 @@ Szimulátorban mért eredmények:
 
 ---
 
-##**Mérőcsoport neve:** MCbukok
+**Mérőcsoport neve:** MCbukok
 
 **Mérőcsoport tagja:**
 Hódos Balázs
