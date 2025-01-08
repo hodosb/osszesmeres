@@ -76,8 +76,7 @@ Szimulátorban mért eredmények:
   <summary>Mérés során készült képek</summary>
     <details>
       <summary>Az összeépített áramkör</summary>
-      ![401086602-e4d056df-9a72-4caa-8a8d-96aed0a157f3](https://github.com/user-attachments/assets/60aabcb3-a4d6-426d-85cf-17f75059f341)
-
+       ![401086602-e4d056df-9a72-4caa-8a8d-96aed0a157f3](https://github.com/user-attachments/assets/a206c38e-2c70-4bc7-958b-573c11c1179d)
     </details>
     <details>
        <summary>Az összeépített áramkör faldstadtb</summary>
