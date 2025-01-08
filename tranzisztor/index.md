@@ -72,26 +72,26 @@ Szimulátorban mért eredmények:
 
 
 ## **Mérés során készült képek**
-<details>
-      <summary>Az összeépített áramkör</summary>
-       <img src="https://github.com/hodosb/osszesmeres/blob/main/tranzisztor/IMG_3688%20(1).png"
-    </details>
-    <details>
-      <summary>Az összeépített áramkör Falstadban</summary>
-       <img src="https://github.com/hodosb/osszesmeres/blob/main/tranzisztor/falstadt.PNG"
-    </details>
-    <details>
-      <summary> Real Grafikon</summary>
-      <img src="https://github.com/hodosb/osszesmeres/blob/main/tranzisztor/igazi.PNG">
-    </details>
-    <details>
-      <summary>Szimulátor Grafikon</summary>
-      <img src="https://github.com/hodosb/osszesmeres/blob/main/tranzisztor/sim.PNG">
-</details>
+      <details>
+            <summary>Az összeépített áramkör</summary>
+             <img src="https://github.com/hodosb/osszesmeres/blob/main/tranzisztor/IMG_3688%20(1).png"
+          </details>
+          <details>
+            <summary>Az összeépített áramkör Falstadban</summary>
+             <img src="https://github.com/hodosb/osszesmeres/blob/main/tranzisztor/falstadt.PNG"
+          </details>
+         <details>
+            <summary> Real Grafikon</summary>
+            <img src="https://github.com/hodosb/osszesmeres/blob/main/tranzisztor/igazi.PNG">
+          </details>
+          <details>
+            <summary>Szimulátor Grafikon</summary>
+            <img src="https://github.com/hodosb/osszesmeres/blob/main/tranzisztor/sim.PNG">
+      </details>
 
 ---
 
-**Mérőcsoport neve:** MCbukok
+##**Mérőcsoport neve:** MCbukok
 
 **Mérőcsoport tagja:**
 Hódos Balázs
