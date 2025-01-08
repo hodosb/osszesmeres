@@ -82,9 +82,9 @@ Szimulátorban mért eredmények:
     </details>
     <details>
       <summary> Real Grafikon</summary>
-      <img src="">
+      <img src="https://github.com/hodosb/osszesmeres/blob/main/tranzisztor/igazi.PNG">
     </details>
     <details>
       <summary>Szimulátor Grafikon</summary>
-      <img src="https://github.com/hodosb/osszesmeres/blob/main/tranzisztor/real.PNG">
+      <img src="https://github.com/hodosb/osszesmeres/blob/main/tranzisztor/sim.PNG">
 </details>
