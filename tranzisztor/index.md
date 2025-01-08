@@ -96,3 +96,4 @@ Szimulátorban mért eredmények:
 **Mérőcsoport tagja:**
 Hódos Balázs
 
+**Kelt 2025.01.08**
