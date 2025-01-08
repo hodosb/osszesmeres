@@ -79,12 +79,8 @@ Szimulátorban mért eredmények:
        ![401086602-e4d056df-9a72-4caa-8a8d-96aed0a157f3](https://github.com/user-attachments/assets/a206c38e-2c70-4bc7-958b-573c11c1179d)
     </details>
     <details>
-       <summary>Az összeépített áramkör faldstadtb</summary>
-      <img src="https://github.com/user-attachments/assets/e4d056df-9a72-4caa-8a8d-96aed0a157f3">
-    </details>
-    <details>
       <summary>Az összeépített áramkör Falstadban</summary>
-      ![falstadt](https://github.com/user-attachments/assets/46231241-e1e7-44fa-ac32-0a7ec17feff2)
+      ![falstadt](https://github.com/user-attachments/assets/f0a03383-7720-4ac0-817c-999d5ee54727)
     </details>
     <details>
       <summary>Valóságos Grafikon</summary>
