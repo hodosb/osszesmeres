@@ -89,7 +89,7 @@ Szimulátorban mért eredmények:
       <img src="https://github.com/hodosb/osszesmeres/blob/main/tranzisztor/sim.PNG">
 </details>
 
-
+---
 
 **Mérőcsoport neve:** MCbukok
 
