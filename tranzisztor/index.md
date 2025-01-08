@@ -72,7 +72,6 @@ Szimulátorban mért eredmények:
 
 
 ## Mérés során készült képek
-<details>
     <details>
       <summary>Az összeépített áramkör</summary>
        <img src="https://github.com/hodosb/osszesmeres/blob/main/tranzisztor/IMG_3688%20(1).png"
@@ -87,6 +86,5 @@ Szimulátorban mért eredmények:
     </details>
     <details>
       <summary>Szimulátor Grafikon</summary>
-      <img src="https://github.com/user-attachments/assets/002936e8-53cf-45bc-8755-0372fdb675bc">
+      <img src="">
     </details>
-</details>
