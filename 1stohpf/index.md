@@ -4,13 +4,14 @@
 
 **Mérés időpontja:** 2025.01.15.
 
-**Mérést végző** neve:Hódos Balázs
+**Mérést végző neve**:Hódos Balázs
 
 ---
 ### **Mérésben használt alkatrészek valós értékei**
 
-**R1=10k Ohm**
-**R
+**Ellenállás R1=10k Ohm**
+**Kondenzátor C1=100nF**
+
 ### **Mérés folyamata**
 
 A szűrőt a mérőkörbe helyeztük, ügyelve a helyes bekötésre és polaritásra.
