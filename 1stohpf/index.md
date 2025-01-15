@@ -1,11 +1,10 @@
-###**MÉRÉSI JEGYZŐKÖNYV**
+### **MÉRÉSI JEGYZŐKÖNYV**
 
 **Mérés tárgya:**  Felül áteresztő szűrő vizsgálati jegyzőkönyv
 
-
 **Mérés időpontja:** 2025.01.15.
 
-
+**Mérést végző** neve:Hódos Balázs
 
 ---
 ### **Mérésben használt alkatrészek valós értékei**
