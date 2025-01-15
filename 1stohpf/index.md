@@ -55,6 +55,7 @@ Valóságban mért eredmények:
 
 Szimulátorban mért eredmények:
 |Frekvencia (Hz)	|Kimeneti feszültség (V)|
+|----------------|-----------------------|
 |20	|0.623|
 |120	|3.010|
 |220	|4.051|
