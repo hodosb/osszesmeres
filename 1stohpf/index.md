@@ -10,6 +10,8 @@
 ### **Mérésben használt alkatrészek valós értékei**
 
 **Ellenállás R1=10k Ohm**
+
+
 **Kondenzátor C1=100nF**
 
 ### **Mérés folyamata**
@@ -73,11 +75,7 @@ Szimulátorban mért eredmények:
 ---
 
 ## **Megjegyzés**
-Mérési tapasztalatok: A transzisztor bázis-emitter feszültségének növelésével a kollektoráram kezdetben exponenciálisan emelkedett, majd elérte a telítési tartományt, ahol gyakorlatilag állandósult. A kollektor-ellenálláson mért feszültség a bázis-emitter feszültséggel együtt nőtt, de a telítési fázisban az arányosság megszűnt.
-
-Grafikus megjelenítés: A mért adatokat célszerű grafikonok segítségével ábrázolni, hogy jobban áttekinthető legyen az Ube-Lc és Ube-Urc közötti kapcsolat. (Ez a grafikai ábrázolás nem szerepel a feltöltött anyagok között.)
-
-Következtetések: A transzisztor megfelelően működött az aktív tartományban, majd átment a telítési állapotba. Az elvégzett mérés eredményei megerősítik a mérési pontosságot.
+A felül áteresztő szűrő teljesítette az elvárásokat a mért paraméterek alapján. Az eszköz alkalmazható a tervezett környezetben. További javaslatok nincsenek.
 
 
 ---
