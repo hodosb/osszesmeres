@@ -54,8 +54,8 @@
 - **Megjegyzések:** [Megjegyzések]  
 - **A vizsga eredménye:** [ ] Sikeres [ ] Sikertelen  
 
-**Vizsgáztató neve:** [Név]  
-**Dátum:** [Dátum]  
+**Vizsgáztató neve:** SP 
+**Dátum:** 2025.02.03.
 **Aláírás:** [Aláírás]  
 
 ---
