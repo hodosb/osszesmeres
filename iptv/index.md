@@ -8,22 +8,20 @@
 
 ### **1. A vizsga folyamata és szükséges eszközök**
 
-**A vizsga kezdete:** 8:17
 
+**Antenna Beltéri** Iskra P2845 Logper
 
-**-Antenna: Beltéri ** Iskra P2845 Logper
+**Fejállomás:** LEMCO SCL-824CT
 
--*Fejállomás:** LEMCO SCL-824CT
+**Set-top box:** MAG IPTV
 
--Set-top box: MAG IPTV
+**Hálózati eszközök:** Switch - HP 2312 procurve
 
--Hálózati eszközök: Switch - HP 2312 procurve
+**Mérőműszer:** METEK HDD 240003 digitális TV jelmérő
 
--Mérőműszer: METEK HDD 240003 digitális TV jelmérő
+**Kábelezés:** Koaxiális és UTP kábelek
 
--Kábelezés: Koaxiális és UTP kábelek
-
-- A miskolc városi tvre hangoljuk az adást mert ez adja a leggyengébb jelet és ha ez jó az összestöbbi is jó lesz.
+-A miskolc városi tvre hangoljuk az adást mert ez adja a leggyengébb jelet és ha ez jó az összestöbbi is jó lesz.
   
 - Mérési pontok kialakítása
   
