@@ -10,10 +10,19 @@
 - **A vizsga kezdete:** 8:17
 
 - A miskolc városi tvre hangoljuk az adást mert ez adja a leggyengébb jelet és ha ez jó az összestöbbi is jó lesz.
-- Mérési pontok kialakítása 
+- Mérési pontok kialakítása
+- 1,2,7,8 portokra kötöttük a multiplexereket
+- Az UTP vezetéket a control portba csatlakoztatjuk
+- 
+- 
 ---
 
 ### **2. Mérések és eredmények**
+
+- **Multiplex 1:** multiplex d  
+- **Multiplex 2:** MIskolc városi tv
+- **Multiplex 3:** multiplex a
+- **Multiplex 4:** multiplex e
 - **Jelerősség:** 52 dBµV  (Horizontális Dél-Nyugat 233fok Miskolci TV )
 - **Jel-zaj viszony (SNR):** [Érték] dB  
 - **Bit Error Rate (BER):** [Érték]  
