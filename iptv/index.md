@@ -8,7 +8,7 @@
 
 ### **1. A vizsga folyamata és szükséges eszközök**
 
-- **A vizsga kezdete:** 8:17
+**A vizsga kezdete:** 8:17
 
 
 -Antenna: Beltéri - Iskra P2845 Logper
@@ -24,9 +24,13 @@
 -Kábelezés: Koaxiális és UTP kábelek
 
 - A miskolc városi tvre hangoljuk az adást mert ez adja a leggyengébb jelet és ha ez jó az összestöbbi is jó lesz.
+  
 - Mérési pontok kialakítása
+  
 - 1,2,7,8 portokra kötöttük a multiplexereket
+  
 - Az UTP vezetéket a control portba csatlakoztatjuk
+  
 ---
 
 ### **2. Mérések és eredmények**
