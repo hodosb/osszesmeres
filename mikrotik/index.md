@@ -19,6 +19,9 @@
 
 **2. Hálózati topológia megtervezése**
 
+
+![407680076-ea1e0aae-f60b-4661-83df-07d1d2dfbe49](https://github.com/user-attachments/assets/4bcba508-1a49-46bf-b5e6-a157121c693c)
+
 2.1. **Hálózati diagram elkészítése**  
 - Az eszközök IP-címeinek kiosztása:
   - Mikrotik LHG18 LTE: `192.168.88.1`
