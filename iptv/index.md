@@ -28,8 +28,9 @@
 - **Csillapítás:** [Érték] dB  
 - **IPTV stream állapota:** [ ] Megfelelő [ ] Nem megfelelő  
 - **Hálózati késleltetés:** [Érték] ms  
-- **Csomagvesztés:** [Érték] %  
-
+- **Csomagvesztés:** [Érték] %
+- **Multicast IP tartomány** 239.50.50.1-239.50.50.39
+- **Multicast port**1234 
 ---
 
 ### **3. Összegzés és értékelés**
