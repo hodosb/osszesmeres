@@ -11,9 +11,9 @@
 **A vizsga kezdete:** 8:17
 
 
--Antenna: Beltéri - Iskra P2845 Logper
+**-Antenna: Beltéri ** Iskra P2845 Logper
 
--Fejállomás: LEMCO SCL-824CT
+-*Fejállomás:** LEMCO SCL-824CT
 
 -Set-top box: MAG IPTV
 
