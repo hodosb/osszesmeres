@@ -13,8 +13,6 @@
 - Mérési pontok kialakítása
 - 1,2,7,8 portokra kötöttük a multiplexereket
 - Az UTP vezetéket a control portba csatlakoztatjuk
-- 
-- 
 ---
 
 ### **2. Mérések és eredmények**
