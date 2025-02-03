@@ -19,8 +19,8 @@
 
 - **Multiplex 1:** multiplex d  
 - **Multiplex 2:** MIskolc városi tv
-- **Multiplex 3:** multiplex a
-- **Multiplex 4:** multiplex e
+- **Multiplex 7:** multiplex a
+- **Multiplex 8:** multiplex e
 - **Jelerősség:** 52 dBµV  (Horizontális Dél-Nyugat 233fok Miskolci TV )
 - **Jel-zaj viszony (SNR):** [Érték] dB  
 - **Bit Error Rate (BER):** [Érték]  
