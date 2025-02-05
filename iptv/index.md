@@ -43,13 +43,13 @@
 - **Modulation Error Ratio (MER):** [Érték] dB  
 - **Csillapítás:** [Érték] dB  
 - **IPTV stream állapota:** [ ] Megfelelő [ ] Nem megfelelő  
-- **Hálózati késleltetés:** [Érték] ms  
-- **Csomagvesztés:** [Érték] %
+- **lemco ip** 192.168.1.200
+- **Router eleres:** 192.168.50.1
 - **Multicast IP tartomány** 239.50.50.1-239.50.50.39
 - **Multicast port**1234
 - **SSID:** iptv
 - **wifi pw:** 12345678
-- **admin username**a dmin
+- **admin username**admin
 - **admin pw:** admin12345678
 - **letöltési fel/sebesség:** 93.46
 - **Portok felosztása**
@@ -57,6 +57,7 @@
   - Lan2:ures
   - Lan3:lemco ip stream 1Gbps
   - Lan4:set top box 100Mbps
+  - 
 ---
 
 ### **3. Összegzés és értékelés**
