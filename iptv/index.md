@@ -44,7 +44,9 @@
 - **Csillapítás:** [Érték] dB  
 - **IPTV stream állapota:** [ ] Megfelelő [ ] Nem megfelelő  
 - **lemco ip** 192.168.1.200
-- **Router eleres:** 192.168.50.1
+
+### **Router eleres:** 192.168.50.1
+
 - **Multicast IP tartomány** 239.50.50.1-239.50.50.39
 - **Multicast port**1234
 - **SSID:** iptv
