@@ -46,7 +46,12 @@
 - **Hálózati késleltetés:** [Érték] ms  
 - **Csomagvesztés:** [Érték] %
 - **Multicast IP tartomány** 239.50.50.1-239.50.50.39
-- **Multicast port**1234 
+- **Multicast port**1234
+- **SSID:** iptv
+- **wifi pw:** 12345678
+- **admin username**admin
+- **admin pw:** admin12345678
+- **letöltési fel/sebesség:** 93.46
 ---
 
 ### **3. Összegzés és értékelés**
