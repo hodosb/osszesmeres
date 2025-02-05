@@ -71,12 +71,16 @@
 #### **Képek:**
 <details>
     <summary>adás</summary>
-    ![adás](https://github.com/user-attachments/assets/e1eb954f-d8cf-435b-b4c9-b731cc2ef43c)
+  
+![adás](https://github.com/user-attachments/assets/e1eb954f-d8cf-435b-b4c9-b731cc2ef43c)
+
 </details>
 <details>
     <summary>Vlc adatok</summary>
-    ![sdfsdfsdf](https://github.com/user-attachments/assets/51338600-5748-484d-81a5-366c112bd244)
-    ![fsdsdf](https://github.com/user-attachments/assets/3673a3b8-715b-47d4-aa7a-2fca1a3ae858)
+  
+![sdfsdfsdf](https://github.com/user-attachments/assets/51338600-5748-484d-81a5-366c112bd244)
+  
+![fsdsdf](https://github.com/user-attachments/assets/3673a3b8-715b-47d4-aa7a-2fca1a3ae858)
 
 </details>
 
