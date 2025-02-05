@@ -22,13 +22,19 @@
 **Kábelezés:** Koaxiális és UTP kábelek
 
 -A miskolc városi tvre hangoljuk az adást mert ez adja a leggyengébb jelet és ha ez jó az összestöbbi is jó lesz.
-  
+
+![adók](https://github.com/user-attachments/assets/4de2f415-0892-42e4-8459-0c8d7cad6fae)
+
 - Mérési pontok kialakítása
   
 - 1,2,7,8 portokra kötöttük a multiplexereket
   
 - Az UTP vezetéket a control portba csatlakoztatjuk
-  
+
+- A set top box konfigurálása m3u fájlból történik pendriveon keresztül.
+- 
+![adás](https://github.com/user-attachments/assets/e1eb954f-d8cf-435b-b4c9-b731cc2ef43c)
+
 ---
 
 ### **2. Mérések és eredmények**
@@ -47,7 +53,9 @@
 
 ### **Router eleres:** 192.168.50.1
 
+- **VLC elérési cím:** http://192.168.1.1:8888/udp/239.1.1.1:1234
 - **Multicast IP tartomány** 239.50.50.1-239.50.50.39
+- **router lan iptv proxy:** 8888
 - **Multicast port**1234
 - **SSID:** iptv
 - **wifi pw:** 12345678
@@ -59,7 +67,7 @@
   - Lan2:ures
   - Lan3:lemco ip stream 1Gbps
   - Lan4:set top box 100Mbps
-  - 
+    
 ---
 
 ### **3. Összegzés és értékelés**
