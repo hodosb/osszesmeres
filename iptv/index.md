@@ -52,6 +52,12 @@
 - **admin username**admin
 - **admin pw:** admin12345678
 - **letöltési fel/sebesség:** 93.46
+- **Portok felosztása**
+  - lan1:lemco control 1Gbps
+  - lan2:ures
+  - lan3:lemco ip stream 1Gbps
+  - lan4:set top box 100Mbps
+  - 
 ---
 
 ### **3. Összegzés és értékelés**
