@@ -32,24 +32,19 @@
 - Az UTP vezetéket a control portba csatlakoztatjuk
 
 - A set top box konfigurálása m3u fájlból történik pendriveon keresztül.
-- 
-![adás](https://github.com/user-attachments/assets/e1eb954f-d8cf-435b-b4c9-b731cc2ef43c)
 
 ---
 
 ### **2. Mérések és eredmények**
-## **Lemco portok**
-- **Multiplex 1:** multiplex d  
-- **Multiplex 2:** MIskolc városi tv
-- **Multiplex 7:** multiplex a
-- **Multiplex 8:** multiplex e
-- 
+### ** Fejállomás konfiguráció**
+- Input1 - Multiplex B, ch35
+- Input2 - Miskolci Városi TV, ch41
+- Input3 - Multiplex A, ch45
+- Input4 - Multiplex E, ch48
+
 - **Jelerősség:** 52 dBµV  (Horizontális Dél-Nyugat 233fok Miskolci TV )
-- **Jel-zaj viszony (SNR):** [Érték] dB  
-- **Bit Error Rate (BER):** [Érték]  
-- **Modulation Error Ratio (MER):** [Érték] dB  
-- **Csillapítás:** [Érték] dB  
-- **IPTV stream állapota:** [ ] Megfelelő [ ] Nem megfelelő  
+- **Modulation Error Ratio (MER):** 13 dB  
+- **IPTV stream állapota:** Megfelelő
 - **lemco ip** 192.168.1.200
 
 ### **Router eleres:** 192.168.50.1-->192.168.1.1
@@ -71,10 +66,22 @@
     
 ---
 
+### **4.6 IPTV stream ellenőrzése**
+
+#### **Képek:**
+<details>
+    <summary>adás</summary>
+    ![adás](https://github.com/user-attachments/assets/e1eb954f-d8cf-435b-b4c9-b731cc2ef43c)
+</details>
+<details>
+    <summary>Vlc adatok</summary>
+    ![sdfsdfsdf](https://github.com/user-attachments/assets/51338600-5748-484d-81a5-366c112bd244)
+    ![fsdsdf](https://github.com/user-attachments/assets/3673a3b8-715b-47d4-aa7a-2fca1a3ae858)
+
+</details>
+
 ### **3. Összegzés és értékelés**
-- **Összpontszám:** [Pontszám] / 100  
-- **Megjegyzések:** [Megjegyzések]  
-- **A vizsga eredménye:** [ ] Sikeres [ ] Sikertelen  
+- **A vizsga eredménye:** Sikeres 
 
 **Vizsgáztató neve:** SP 
 **Dátum:** 2025.02.03.
