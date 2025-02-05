@@ -66,7 +66,7 @@
     
 ---
 
-### **4.6 IPTV stream ellenőrzése**
+### **IPTV stream ellenőrzése**
 
 #### **Képek:**
 <details>
