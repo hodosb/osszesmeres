@@ -38,11 +38,12 @@
 ---
 
 ### **2. Mérések és eredmények**
-
+## **Lemco portok**
 - **Multiplex 1:** multiplex d  
 - **Multiplex 2:** MIskolc városi tv
 - **Multiplex 7:** multiplex a
 - **Multiplex 8:** multiplex e
+- 
 - **Jelerősség:** 52 dBµV  (Horizontális Dél-Nyugat 233fok Miskolci TV )
 - **Jel-zaj viszony (SNR):** [Érték] dB  
 - **Bit Error Rate (BER):** [Érték]  
@@ -51,7 +52,7 @@
 - **IPTV stream állapota:** [ ] Megfelelő [ ] Nem megfelelő  
 - **lemco ip** 192.168.1.200
 
-### **Router eleres:** 192.168.50.1
+### **Router eleres:** 192.168.50.1-->192.168.1.1
 
 - **VLC elérési cím:** http://192.168.1.1:8888/udp/239.1.1.1:1234
 - **Multicast IP tartomány** 239.50.50.1-239.50.50.39
