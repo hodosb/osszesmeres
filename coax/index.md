@@ -26,7 +26,7 @@ A feladat célja, hogy elsajátítsuk a koaxiális kábel készítését és ann
 **Végeredmény:**
 
 90 dBuV-s jelet küldünk a Johansson modulátorról, a Metek eszközbe és az általunk készített koaxkábellel kötjük őket össze.
-A Metek HDD-ben 88.4 dBuV jelet tudtunk mérni, tehát ennyit csillapít a készített kábel.
+A Metek HDD-ben 88.4 dBuV jelet tudtunk mérni, tehát így 1,6dBuV csillapít a készített kábel.
 
 <details>
     <summary>Képek</summary>
@@ -39,4 +39,4 @@ A Metek HDD-ben 88.4 dBuV jelet tudtunk mérni, tehát ennyit csillapít a kész
 
 **Összesítés:**
 
-A feladatot sikeresen elvégeztük, a méréseket sikerült elkészíteni.
+A feladatot sikeresen elvégeztük, a méréseket sikerült elvégezni.
