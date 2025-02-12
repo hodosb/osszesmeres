@@ -2,7 +2,7 @@
 **MÉRÉSI JEGYZŐKÖNYV**  
 **Koax kábel készítés**  
 
-**Vizsgázó neve:** Sándor Zsombor
+**Vizsgázó neve:** Hódos Balázs
 
 **Dátum:** 2025.02.12.
 
@@ -26,12 +26,12 @@ A feladat célja, hogy elsajátítsuk a koaxiális kábel készítését és ann
 **Végeredmény:**
 
 90 dBuV-s jelet küldünk a Johansson modulátorról, a Metek eszközbe és az általunk készített koaxkábellel kötjük őket össze.
-A Metek HDD-ben 86.6 dBuV jelet tudtunk mérni, tehát ennyit csillapít a készített kábel.
+A Metek HDD-ben 88.4 dBuV jelet tudtunk mérni, tehát ennyit csillapít a készített kábel.
 
 <details>
     <summary>Képek</summary>
-    <img src="https://github.com/user-attachments/assets/c7614c05-cfff-437a-9d53-248a7e3b4098" width="640" height="360">
-    <img src="https://github.com/user-attachments/assets/4e34f850-4b8d-48b4-be4b-621631f14392" width="640" height="360">
+    ![its_snapshot_0002](https://github.com/user-attachments/assets/e104db6c-41d7-4db7-9894-afe1ad32680c)
+    ![IMG_4049](https://github.com/user-attachments/assets/49e8193e-b9c1-4d8e-80c2-3cf537a8d4c6)
 </details>
 
 **Összesítés:**
